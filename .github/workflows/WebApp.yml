@@ -1,5 +1,6 @@
-on: [push]
 name: Web Application Pipeline
+
+on: [push]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
