@@ -1,6 +1,5 @@
-name: Web Application Pipeline
 on: [push]
-name: AzureApp
+name: Web Application Pipeline
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
