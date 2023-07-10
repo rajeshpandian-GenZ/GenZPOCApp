@@ -1,5 +1,4 @@
 name: Web Application Pipeline
-
 on: [push]
 name: AzureApp
 jobs:
