@@ -5,4 +5,4 @@ This Code is built in React-native and is built to work on platforms
 2. iOS
 3. WebApp
 
-GitHub Actions is used for Automated Build & Deployment
+GitHub Actions is used for Automated Build & Deployment - Demo
